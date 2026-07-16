@@ -1,0 +1,8 @@
+output_videos/
+__pycache__/
+*.mp4
+*.pyc
+.env
+client_secret*.json
+token.json
+.DS_Store
