@@ -432,9 +432,9 @@
     ],
     "categoryId": "24",
     "privacyStatus": "private",
-    "publishAt": null,
-    "posted": false,
-    "video_id": null
+    "publishAt": "2026-07-20T03:00:00.000Z",
+    "posted": true,
+    "video_id": "1OtIAo_kIfM"
   },
   {
     "id": 24,
@@ -451,9 +451,9 @@
     ],
     "categoryId": "24",
     "privacyStatus": "private",
-    "publishAt": null,
-    "posted": false,
-    "video_id": null
+    "publishAt": "2026-07-20T06:00:00.000Z",
+    "posted": true,
+    "video_id": "G1HBSc5KNR0"
   },
   {
     "id": 25,
@@ -470,9 +470,9 @@
     ],
     "categoryId": "24",
     "privacyStatus": "private",
-    "publishAt": null,
-    "posted": false,
-    "video_id": null
+    "publishAt": "2026-07-20T09:00:00.000Z",
+    "posted": true,
+    "video_id": "ziMMQINJ-jQ"
   },
   {
     "id": 26,
@@ -489,9 +489,9 @@
     ],
     "categoryId": "24",
     "privacyStatus": "private",
-    "publishAt": null,
-    "posted": false,
-    "video_id": null
+    "publishAt": "2026-07-20T12:00:00.000Z",
+    "posted": true,
+    "video_id": "FjORtLiV14Q"
   },
   {
     "id": 27,
@@ -508,9 +508,9 @@
     ],
     "categoryId": "24",
     "privacyStatus": "private",
-    "publishAt": null,
-    "posted": false,
-    "video_id": null
+    "publishAt": "2026-07-20T15:00:00.000Z",
+    "posted": true,
+    "video_id": "CdzdX5zFrkk"
   },
   {
     "id": 28,
@@ -527,9 +527,9 @@
     ],
     "categoryId": "24",
     "privacyStatus": "private",
-    "publishAt": null,
-    "posted": false,
-    "video_id": null
+    "publishAt": "2026-07-20T17:30:00.000Z",
+    "posted": true,
+    "video_id": "MeCchi6r19o"
   },
   {
     "id": 29,
